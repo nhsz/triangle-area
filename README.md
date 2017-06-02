@@ -1,5 +1,7 @@
 # triangles-area
 
+[![NPM](https://nodei.co/npm/triangles-area.png)](https://nodei.co/npm/triangles-area/)
+
 > Get the **[`area of a triangle`](https://en.wikipedia.org/wiki/Triangle#Computing_the_area_of_a_triangle)**, given the base and height
 
 
