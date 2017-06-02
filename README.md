@@ -1,4 +1,4 @@
-# triangle-area
+# triangles-area
 
 > Get the **[`area of a triangle`](https://en.wikipedia.org/wiki/Triangle#Computing_the_area_of_a_triangle)**, given the base and height
 
@@ -6,14 +6,14 @@
 ## Install
 
 ```
-$ npm install --save triangle-area
+$ npm install --save triangles-area
 ```
 
 
 ## Usage
 
 ```js
-const triangleArea = require('triangle-area')
+const triangleArea = require('triangles-area')
 
 console.log(triangleArea(24, 27.6))
 // => 331.2
