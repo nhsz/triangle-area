@@ -1,6 +1,6 @@
 {
   "name": "triangles-area",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Get the area of a triangle, given the base and height",
   "main": "index.js",
   "scripts": {
